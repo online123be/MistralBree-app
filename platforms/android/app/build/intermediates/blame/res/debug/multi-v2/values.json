@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/HDD/app can go here/versus/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/251497ef4e57ad4081e5d0424f147f3c/res/values/values.xml",
@@ -76,23 +76,6 @@
                     }
                 },
                 {
-                    "source": "/Volumes/HDD/app can go here/versus/platforms/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "158,55,99",
-                        "endColumns": "63,43,58",
-                        "endOffsets": "217,94,153"
-                    },
-                    "to": {
-                        "startLines": "154,155,175",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7635,7699,10158",
-                        "endColumns": "63,43,58",
-                        "endOffsets": "7694,7738,10212"
-                    }
-                },
-                {
                     "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/2e32317219ce1eea6cf774c9a2db72ae/res/values/values.xml",
                     "from": {
                         "startLines": "4",
@@ -124,6 +107,23 @@
                         "startOffsets": "7497,8783",
                         "endColumns": "67,166",
                         "endOffsets": "7560,8945"
+                    }
+                },
+                {
+                    "source": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,55,99",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "217,94,153"
+                    },
+                    "to": {
+                        "startLines": "154,155,175",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7635,7699,10158",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "7694,7738,10212"
                     }
                 },
                 {

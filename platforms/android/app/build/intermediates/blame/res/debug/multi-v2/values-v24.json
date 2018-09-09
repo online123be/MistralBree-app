@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/HDD/app can go here/versus/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/251497ef4e57ad4081e5d0424f147f3c/res/values-v24/values-v24.xml",

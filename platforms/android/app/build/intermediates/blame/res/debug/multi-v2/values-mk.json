@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/HDD/app can go here/versus/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/2e32317219ce1eea6cf774c9a2db72ae/res/values-mk/values.xml",
