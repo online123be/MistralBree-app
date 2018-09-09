@@ -13,7 +13,6 @@
         <script type="text/javascript" charset="utf-8">
 
 
-
             // Wait for device API libraries to load
             //
             document.addEventListener("deviceready", onDeviceReady, false);
@@ -28,17 +27,6 @@
                 //     }
                 //  });
 
-                OneSignal.isPushNotificationsEnabled(function(isEnabled) {
-                    if (isEnabled) {
-                        // user has subscribed
-                        OneSignal.getUserId( function(userId) {
-                            console.log('player_id of the subscribed user is : ' + userId);
-                            alert('player_id of the subscribed user is : ' + userId);
-                            // Make a POST call to your server with the user ID        
-                        });
-                    }
-                });
-
                 ref.addEventListener('loadstop', function(event) {});
                 ref.addEventListener('loaderror', function(event) {});
                 ref.addEventListener('exit', function(event) {});
@@ -52,6 +40,7 @@
                 .endInit();
 
             }        
+
 
 
 
