@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Sep 09 16:50:13 CEST 2018
+#Sun Sep 09 17:15:35 CEST 2018
 210.set=ASSET
 14.set=ASSET
 180.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/assets/debug/www/res/screen/android/drawable-land-mdpi-screen.png
@@ -368,7 +368,7 @@
 19.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/assets/debug/www/spec/lib/jasmine-1.2.0/jasmine.css
 15.base=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_
 10.set=ASSET
-46.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-land-xhdpi-v4/screen.png
+46.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/browser_actions_context_menu_row.xml
 114.set=ASSET
 98.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/assets/debug/www/res/icon/windows/Square44x44Logo.scale-100.png
 21.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
@@ -425,7 +425,7 @@ count=214
 163.set=ANDROID_RESOURCE
 16.base=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/assets/debug
 20.set=ANDROID_RESOURCE
-47.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/browser_actions_context_menu_row.xml
+47.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-land-xhdpi-v4/screen.png
 22.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xhdpi-v4/ic_action_previous_item.png
 124.set=ASSET
 99.file=/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/Entry.js

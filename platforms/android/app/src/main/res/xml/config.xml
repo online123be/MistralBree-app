@@ -38,12 +38,12 @@
     <feature name="Vibration">
         <param name="android-package" value="org.apache.cordova.vibration.Vibration" />
     </feature>
-    <name>versus</name>
+    <name>Mistral Bree</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Mistral Bree interactieve app met leuke promo's, nieuws en wedstrijden
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="hello@happp.be" href="http://happp.be">
+        HAPPP
     </author>
     <content src="index.html" />
     <access origin="*" />
