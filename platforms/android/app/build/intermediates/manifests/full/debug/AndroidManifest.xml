@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.easybooker.versus"
+    package="com.easybooker.mistralbree"
     android:hardwareAccelerated="true"
     android:versionCode="10000"
     android:versionName="1.0.0" >
@@ -21,7 +21,7 @@
     <uses-permission android:name="com.amazon.device.messaging.permission.RECEIVE" />
 
     <permission
-        android:name="com.easybooker.versus.permission.RECEIVE_ADM_MESSAGE"
+        android:name="com.easybooker.mistralbree.permission.RECEIVE_ADM_MESSAGE"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.easybooker.hybridapp.permission.RECEIVE_ADM_MESSAGE" />
@@ -38,10 +38,10 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
     <permission
-        android:name="com.easybooker.versus.permission.C2D_MESSAGE"
+        android:name="com.easybooker.mistralbree.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.easybooker.versus.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.easybooker.mistralbree.permission.C2D_MESSAGE" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- Required, makes sure notifications are delivered on time. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <!--
@@ -75,7 +75,7 @@
         android:supportsRtl="true"
         android:testOnly="true" >
         <activity
-            android:name="com.easybooker.versus.MainActivity"
+            android:name="com.easybooker.mistralbree.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
             android:label="@string/activity_name"
             android:launchMode="singleTop"
@@ -110,7 +110,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.easybooker.versus.provider"
+            android:authorities="com.easybooker.mistralbree.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -133,7 +133,7 @@
             <intent-filter android:priority="999" >
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.easybooker.versus" />
+                <category android:name="com.easybooker.mistralbree" />
             </intent-filter>
         </receiver>
         <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
@@ -197,7 +197,7 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.easybooker.versus" />
+                <category android:name="com.easybooker.mistralbree" />
             </intent-filter>
         </receiver>
         <!--
@@ -214,7 +214,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.easybooker.versus.firebaseinitprovider"
+            android:authorities="com.easybooker.mistralbree.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 

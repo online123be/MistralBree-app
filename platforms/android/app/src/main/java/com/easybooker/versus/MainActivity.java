@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.easybooker.versus;
+package com.easybooker.mistralbree;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

@@ -5,15 +5,15 @@
  * should not be modified by hand.
  */
 
-package com.easybooker.versus;
+package com.easybooker.mistralbree;
 
 public final class Manifest {
   public static final class permission {
-    public static final String RECEIVE_ADM_MESSAGE="com.easybooker.versus.permission.RECEIVE_ADM_MESSAGE";
+    public static final String RECEIVE_ADM_MESSAGE="com.easybooker.mistralbree.permission.RECEIVE_ADM_MESSAGE";
     /**
      * Create a unique permission for your app and use it so only your app can receive your OneSignal messages.
      */
-    public static final String C2D_MESSAGE="com.easybooker.versus.permission.C2D_MESSAGE";
+    public static final String C2D_MESSAGE="com.easybooker.mistralbree.permission.C2D_MESSAGE";
   }
 
 }
