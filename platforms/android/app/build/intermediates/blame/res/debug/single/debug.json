@@ -48,16 +48,16 @@
         "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d071628f54600d716f4b2d564e56c231/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4eaebded5b9b3a7e904fdc64740d7c92/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
+        "source": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/src/main/res/xml/config.xml"
     },
     {
         "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/layout_browser_actions_context_menu_page.xml.flat",
         "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/52b283a5a4154a95a05673efbe163913/res/layout/browser_actions_context_menu_page.xml"
     },
     {
-        "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
-        "source": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/src/main/res/xml/config.xml"
+        "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4eaebded5b9b3a7e904fdc64740d7c92/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
@@ -84,12 +84,12 @@
         "source": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_previous_item.png"
     },
     {
-        "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4eaebded5b9b3a7e904fdc64740d7c92/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
         "source": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/kgo/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/4eaebded5b9b3a7e904fdc64740d7c92/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Volumes/HDD/app can go here/mistralbree/MistralBree-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
