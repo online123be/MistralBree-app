@@ -12,19 +12,10 @@
         
         <script type="text/javascript" charset="utf-8">
             
-            // Wait for device API libraries to load
-            //
             document.addEventListener("deviceready", onDeviceReady, false);
             
-            // device APIs are available
-            //
             function onDeviceReady() {
-                var ref = window.open('http://apps.happp.be/mistral/', '_blank', 'location=no,toolbar=no');
-                // ref.addEventListener( "loadstart", function(event) {
-                //     if(event.url == 'https://app.versu.be/open/scanner'){
-                //         window.open('http://apache.org', '_blank', 'location=no,toolbar=yes,closebuttoncaption=Sluiten');
-                //     }
-                //  });
+                var ref = window.open('http://192.168.254.138/index.php?page=1', '_blank', 'location=no,toolbar=no');
                 ref.addEventListener('loadstop', function(event) {});
                 ref.addEventListener('loaderror', function(event) {});
                 ref.addEventListener('exit', function(event) {});
